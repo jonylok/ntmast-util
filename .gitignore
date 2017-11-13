@@ -1,0 +1,9 @@
+/.project
+/target/
+/.classpath
+/.settings/
+/generatorConfig.xml
+/map.log
+/.idea
+/*.iml
+.DS_Store
